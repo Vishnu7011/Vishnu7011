@@ -15,7 +15,7 @@ experience.
 ---
 
 🚀 Skills:
-- HTML     <img align="right" alt="Coding" width="300" src=" https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
+- HTML     <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 - CSS                                                  
 - JavaScript     
 

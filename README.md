@@ -16,8 +16,12 @@ experience.
 
 🚀 Skills:
 - HTML
-- CSS
-- JavaScript
+- CSS                                                   https://github.com/user-attachments/assets/5629a3b7-5371-482f-bc9c-b3b8328b0f0f
+- JavaScript     
+
+
+
+
 - React.js
 - Git & GitHub
 

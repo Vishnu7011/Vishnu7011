@@ -15,6 +15,8 @@ experience.
 ---
 
 🚀 Skills:
+- C
+- C++
 - HTML     <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 - CSS                                                  
 - JavaScript     
@@ -39,13 +41,13 @@ To become a skilled Full Stack Developer and work on real-world projects.
 
 ## 🛠️ Tech Stack
 
-.Programming Languages: C, C++ 
-.Web Technologies: HTML5, CSS3, JavaScript (ES6+) 
-.Frontend Framework: React.js (Basics – Components, Props, State, Hooks)
-.Version Control: Git, GitHub 
-.Tools & Platforms: VS Code, GitHub 
-.Operating Systems: Windows, Linux (Basic)
-.Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, 
+🔹Programming Languages: C, C++ 
+🔹Web Technologies: HTML5, CSS3, JavaScript (ES6+) 
+🔹Frontend Framework: React.js (Basics – Components, Props, State, Hooks)
+🔹Version Control: Git, GitHub 
+🔹Tools & Platforms: VS Code, GitHub 
+🔹Operating Systems: Windows, Linux (Basic)
+🔹Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, 
 Team
 
 ---

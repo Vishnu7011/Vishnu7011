@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vishnu - ( Software Engineer)
 💻 Frontend Developer | BCA Student  
 🚀 Passionate about building responsive and modern web applications  
-🌱 Currently learning Full Stack Development & Backend Technologies
+🌱 Currently learning Full Stack Development
 
 ---
 

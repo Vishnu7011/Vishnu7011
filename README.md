@@ -19,19 +19,20 @@ experience.
 - C++
 - HTML     <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 - CSS                                                  
-- JavaScript     
+- JavaScript
 
 
 
 
 - React.js
+- Node.js
+- Express.js
+- MongoDB
 - Git & GitHub
 
 ---
 
 📚 Currently Learning:
-- React.js
-- Backend Development
 - Full Stack Development
 
 🎯 Goal:
@@ -42,13 +43,13 @@ To become a skilled Full Stack Developer and work on real-world projects.
 ## 🛠️ Tech Stack
 
 🔹Programming Languages: C, C++ 
-🔹Web Technologies: HTML5, CSS3, JavaScript (ES6+) 
-🔹Frontend Framework: React.js (Basics – Components, Props, State, Hooks)
-🔹Version Control: Git, GitHub 
-🔹Tools & Platforms: VS Code, GitHub 
+🔹Web Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+🔹Frontend Framework: React.js, Next.js
+🔹Backend Technologies: Node.js, Express.js
+🔹Database: MongoDB
+🔹Version Control & Tools: Git, GitHub, Postman, VS Code
 🔹Operating Systems: Windows, Linux (Basic)
-🔹Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, 
-Team
+🔹Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, Teamwork
 
 ---
 
@@ -58,12 +59,13 @@ Team
 
 ## 📂 Featured Projects
 
-### 🌦️ Weather App
-A responsive weather application using API integration.
+### 📝 NoteTaking App
+Developed a full stack NoteTasking application with user authentication and crud functionality.
 
-🔹 HTML  
-🔹 CSS  
-🔹 JavaScript
+🔹 MongoDB
+🔹 Express.js
+🔹 React.js
+🔹 Node.js
 
 ### ✅ To-Do List App
 Simple and interactive task management application.

@@ -60,18 +60,18 @@ To become a skilled Full Stack Developer and work on real-world projects.
 ### 📝 NoteTaking App
 Developed a full stack NoteTasking application with user authentication and crud functionality.
 
-. MongoDB
-. Express.js
-. React.js
-. Node.js
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
 ### 📄 Word to PDF Converter
 Developed a web application that converts Word (.docx) documents into PDF quickly with a simple and user-friendly interface.
 
-. React js
-. Express.js
-. Node.js
-. Responsive UI
+- React.js
+- Express.js
+- Node.js
+- Responsive UI
 
 ---
 

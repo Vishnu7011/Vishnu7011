@@ -1,16 +1,12 @@
-# 👋 Hi, I'm Vishnu - ( Software Engineer)
+# 👋 Hi, I'm Vishnu - ( Full Stack Developer)
 💻 Frontend Developer | BCA Student  
 🚀 Passionate about building responsive and modern web applications  
-🌱 Currently learning Full Stack Development
+🌱 Currently improving my skills
 
 ---
 
 ## 💡 About Me
-Motivated and detail-oriented BCA student (Final Year, 2024–2027) with strong programming skills in C, C++, 
-HTML, CSS, JavaScript, and basic React.js . Experienced in building front-end web applications with real GitHub-
-hosted projects including a Weather App and a ToDo List App. Quick learner with a passion for web development 
-and software engineering. Seeking opportunities to contribute to a dynamic team and grow through hands-on 
-experience.
+Motivated and detail-oriented BCA student with hands-on experience in building full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, and GitHub. Passionate about building scalable web applications and continuously learning new technologies.
 
 ---
 
@@ -33,7 +29,9 @@ experience.
 ---
 
 📚 Currently Learning:
-- Full Stack Development
+- Data Structures and Algorithms
+- Next.js
+- New technologies
 
 🎯 Goal:
 To become a skilled Full Stack Developer and work on real-world projects.
@@ -44,7 +42,7 @@ To become a skilled Full Stack Developer and work on real-world projects.
 
 🔹Programming Languages: C, C++ 
 🔹Web Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
-🔹Frontend Framework: React.js, Next.js
+🔹Frontend Framework: React.js
 🔹Backend Technologies: Node.js, Express.js
 🔹Database: MongoDB
 🔹Version Control & Tools: Git, GitHub, Postman, VS Code
@@ -67,11 +65,12 @@ Developed a full stack NoteTasking application with user authentication and crud
 🔹 React.js
 🔹 Node.js
 
-### ✅ To-Do List App
-Simple and interactive task management application.
+### 📄 Word to PDF Converter
+Developed a web application that converts Word (.docx) documents into PDF quickly with a simple and user-friendly interface.
 
-🔹 JavaScript  
-🔹 Local Storage  
+🔹 React js
+🔹 Express.js
+🔹 Node.js
 🔹 Responsive UI
 
 ---

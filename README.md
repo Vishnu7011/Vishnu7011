@@ -40,14 +40,14 @@ To become a skilled Full Stack Developer and work on real-world projects.
 
 ## 🛠️ Tech Stack
 
-🔹Programming Languages: C, C++ 
-🔹Web Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
-🔹Frontend Framework: React.js
-🔹Backend Technologies: Node.js, Express.js
-🔹Database: MongoDB
-🔹Version Control & Tools: Git, GitHub, Postman, VS Code
-🔹Operating Systems: Windows, Linux (Basic)
-🔹Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, Teamwork
+- Programming Languages: C, C++ 
+- Web Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+- Frontend Framework: React.js
+- Backend Technologies: Node.js, Express.js
+- Database: MongoDB
+- Version Control & Tools: Git, GitHub, Postman, VS Code
+- Operating Systems: Windows, Linux (Basic)
+- Soft Skills: Quick Learner, Problem-solving, Analytical Thinking, Communication, Teamwork
 
 ---
 
